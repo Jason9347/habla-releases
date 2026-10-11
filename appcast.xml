@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.4</title>
+            <pubDate>Sun, 11 Oct 2026 20:05:52 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Lighter on memory and CPU: no speech-model load at launch, and no background redraws while waiting for permissions.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.4/Habla-0.1.4.dmg" type="application/octet-stream" sparkle:edSignature="vcwowar4WCqwzounqst27/sUGzknE1yfOH+KGbOFPi15Ynj1JmqItsM2wWCuHqnESb/O1GAyRNuRG2UqVynSCA==" length="45101208"/>
+        </item>
+        <item>
             <title>Habla 0.1.3</title>
             <pubDate>Sun, 11 Oct 2026 19:50:16 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
