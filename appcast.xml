@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.5</title>
+            <pubDate>Sun, 11 Oct 2026 20:13:01 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>No API key needed: setup now confirms Habla's shared AI is on instead of asking for a key. New, clearer install window.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.5/Habla-0.1.5.dmg" type="application/octet-stream" sparkle:edSignature="ekq01UxjhOF77NUBKwm5ZUFrA2Fi74TjX8Re4YfjV0X3VUHL5F28CAw0shGppBRR9xfHCUVYFWZrifO1TtsiAw==" length="44160659"/>
+        </item>
+        <item>
             <title>Habla 0.1.4</title>
             <pubDate>Sun, 11 Oct 2026 20:05:52 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
