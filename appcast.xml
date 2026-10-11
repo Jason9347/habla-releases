@@ -2,5 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Habla</title>
+        <item>
+            <title>Habla 0.1.2</title>
+            <pubDate>Sun, 11 Oct 2026 19:17:36 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>First version with automatic updates. Also new: Instruct Mode (hold Left Ctrl + Left Opt and say what you want), a redesigned Notetaker meeting page with Ask anything, iCloud sync between your Macs, and Flow-style search.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.2/Habla-0.1.2.dmg" type="application/octet-stream" sparkle:edSignature="4sV/021CpcCx+aq2ny4idsQH/KWMTbZqCu9Nnu6PWmTTwT6jEoKLMPhRDfRUDDKTR3c2iIQfBsCXKaI3AiHmDw==" length="45103699"/>
+        </item>
     </channel>
 </rss>
