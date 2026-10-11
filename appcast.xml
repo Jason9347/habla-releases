@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.3</title>
+            <pubDate>Sun, 11 Oct 2026 19:50:16 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Habla's AI now works without an Anthropic key: clean-up, Instruct Mode, Transforms and meeting notes use Habla's shared AI, with a fair daily limit. Add your own key in Settings for unlimited use.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.3/Habla-0.1.3.dmg" type="application/octet-stream" sparkle:edSignature="erWpP7GT+El2V/xFjipMkpK1s+xVIhEF1VrsCn1CMcvqqGDYwt6oyTQ55syxnJb/MtkkMOrccBn4dG44UVkbBw==" length="45100697"/>
+        </item>
+        <item>
             <title>Habla 0.1.2</title>
             <pubDate>Sun, 11 Oct 2026 19:17:36 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
