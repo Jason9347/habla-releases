@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.8</title>
+            <pubDate>Mon, 12 Oct 2026 06:20:41 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Fixes dictation coming back silent after using the Notetaker, and shows a clear message (and resets the mic) if your microphone ever sends no sound. Triple-tapping Control no longer starts the Notetaker unless you switch it on in Settings.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.8/Habla-0.1.8.dmg" type="application/octet-stream" sparkle:edSignature="aOkfAYtHiv5bMiJeNCd1xNfW37/pEM/PHZS0xRHx9EbL9UkeHMX+Hp3HwaO3jUHhyYr+XhG2ZwutmP/DMZdsCA==" length="44354623"/>
+        </item>
+        <item>
             <title>Habla 0.1.7</title>
             <pubDate>Mon, 12 Oct 2026 05:05:36 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
