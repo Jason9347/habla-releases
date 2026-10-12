@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.7</title>
+            <pubDate>Mon, 12 Oct 2026 05:05:36 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Fixes dictation sometimes pasting what you last copied instead of what you said (in slower apps like Claude). Gmail and Outlook in your browser now get email formatting. Updates now announce themselves. Stats count only what you dictate in Habla. Clearer reasons to sign in, and a Keep me posted option to follow along and support Habla.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.7/Habla-0.1.7.dmg" type="application/octet-stream" sparkle:edSignature="DmXo0dwL7QkUdu1YXSNGGG3WBIqVCZwfPPixpZOROK4Trta3oh7H4mFhIM4iGlf2dr6iz7lYXMih0RQz5qw2AQ==" length="44354254"/>
+        </item>
+        <item>
             <title>Habla 0.1.6</title>
             <pubDate>Sun, 11 Oct 2026 21:38:28 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
