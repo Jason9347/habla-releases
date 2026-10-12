@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.9</title>
+            <pubDate>Mon, 12 Oct 2026 18:41:19 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>New: Help &amp; feedback. Report a problem or suggest an idea from Settings or the menu bar, with an optional screenshot. It goes straight to Yeison.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.9/Habla-0.1.9.dmg" type="application/octet-stream" sparkle:edSignature="nliUHVrA/DFtqLjfzRZ+uqE1nkIHRZShY2i3L6TeKYJPIoRM8sZhteGAjodc7dEStrT6l2ht1fFaCF8W7duuCg==" length="44399105"/>
+        </item>
+        <item>
             <title>Habla 0.1.8</title>
             <pubDate>Mon, 12 Oct 2026 06:20:41 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
