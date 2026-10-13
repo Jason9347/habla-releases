@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.11</title>
+            <pubDate>Tue, 13 Oct 2026 06:41:25 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Sign in with Google, alongside Apple and email. A new Use Habla's shared AI switch in Settings, Clean-up. Habla's own server address (habla.yeiai.uk). Plus a privacy policy for the app.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.11/Habla-0.1.11.dmg" type="application/octet-stream" sparkle:edSignature="Zr+sHDBplHg2wraWiPmPvA/vsJsbQbhoLS1DPaaEJjXUiAjSfN2qLqhkP5FXgZxBMsvYy7D895Apzhh+ZSHsDQ==" length="44423789"/>
+        </item>
+        <item>
             <title>Habla 0.1.10</title>
             <pubDate>Tue, 13 Oct 2026 05:27:30 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
