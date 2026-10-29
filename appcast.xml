@@ -3,6 +3,15 @@
     <channel>
         <title>Habla</title>
         <item>
+            <title>Habla 0.1.12</title>
+            <pubDate>Thu, 29 Oct 2026 19:52:16 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Pastes land reliably: Habla now presses Cmd+V like a person and keeps your words on the clipboard longer, so slow moments never paste your old clipboard. Work Gmail (Google Workspace) gets proper email layout and signs with the name on the account. JSON is always your name. 100 pounds becomes £100 or 100 lbs from the sentence. Apple becomes Habla when you mean the app. Setup says clearly what signing in gets you.</p>]]></description>
+            <enclosure url="https://github.com/Jason9347/habla-releases/releases/download/v0.1.12/Habla-0.1.12.dmg" type="application/octet-stream" sparkle:edSignature="ZVqLYQ/HNXGMhzM1HPTYlc/otMjzXOc5srb/cvJ8+8SeO3aegPZJEv0e/9LWhRWSpVe7wBOaBUujTgIhhr9/DQ==" length="44471672"/>
+        </item>
+        <item>
             <title>Habla 0.1.11</title>
             <pubDate>Tue, 13 Oct 2026 06:41:25 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
